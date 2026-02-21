@@ -40,5 +40,5 @@ Mình tin vào sự giao thoa giữa **Kỷ luật Khắc kỷ (Stoicism)** và 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuanArtFrame22.&show_icons=true&theme=tokyonight" alt="Tuan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adobe-1994.&show_icons=true&theme=tokyonight" alt="Tuan's GitHub Stats" />
 </p>
